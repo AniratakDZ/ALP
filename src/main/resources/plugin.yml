@@ -1,0 +1,4 @@
+name: ALP
+version: '0.1'
+main: de.regitstudios.alp.ALP
+api-version: '1.21'
